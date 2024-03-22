@@ -29,5 +29,5 @@ Example #: [2]
    - Mention any abstraction layers or functions used to encapsulate actions.
 
 # Learning Outcome [1 Minute]
-- Imperetive paradigm is a programming approach that tells the program how to achieve the desired outcomes. While the declarative paradigm tells the program what to achieve without telling it how. Both of this approach can be useful tools for the developer as long as they now how to apply and when to apply. I will use imperative approach when I build projects where Control flow matters. And I will use declarative approach fo High Level Abstraction.
+- Imperetive paradigm is a programming approach that tells the program how to achieve the desired outcomes. While the declarative paradigm tells the program what to achieve without telling it how. Both of this approach can be useful tools for the developer as long as they now how to apply and when to apply. I will use imperative approach when I build projects where Control flow matters. And I will use declarative approach for High Level Abstraction.
 
